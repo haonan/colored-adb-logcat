@@ -13,3 +13,8 @@ Usage
      # add colored adb logcat 
      alias logcat='python /home/haonan/dev/colored-adb-logcat.py'
 
+Preview
+-------
+
+![Sample Screenshot](https://raw.github.com/haonan/colored-adb-logcat/master/Screenshot.png)
+
